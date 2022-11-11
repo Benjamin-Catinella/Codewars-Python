@@ -1,2 +1,5 @@
-# Codewars-Python
-Katas from codewars.com in Python
+## Codewars Python
+### From Benjamin Catinella
+Katas from https://www.codewars.com/
+
+[My profile](https://www.codewars.com/users/Benjamin%20.C)
